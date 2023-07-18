@@ -1,2 +1,2 @@
 # Comp434
-COMPUTER AND NETWORK SECURITY
+Computer And Network Security
